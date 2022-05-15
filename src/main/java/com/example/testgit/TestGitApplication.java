@@ -10,4 +10,8 @@ public class TestGitApplication {
         SpringApplication.run(TestGitApplication.class, args);
     }
 
+    public void print() {
+        System.out.println("hello wode");
+    }
+
 }
